@@ -1,11 +1,12 @@
 ## Hello 👋
 
-My name is _Avinash_. I am a Frontend web developer from India.
+I’m Avinash a frontend developer from India who likes clean code, crisp UI, and apps that feel fast.
 
-**Info**
+### What I’m about
 
--   [Email me](mailto:alvs.codee@slmail.me)
--   [Portfolio website](https://alvs.dev)
+- Building interfaces that are simple to use and solid under the hood
+- Choosing tools that solve problems, not create them
+- Writing just enough code and deleting what isn’t needed
 
 ### Skills and tools
 
@@ -25,15 +26,20 @@ My name is _Avinash_. I am a Frontend web developer from India.
 
 > For a detailed and exhaustive list of skills and tools, visit [my public note on skills and tools](https://alvs.dev/notes/skills-and-tools/).
 
-🌱 I’m currently upskilling my skills by builiding more projects.
+🌱 I’m currently shipping small, focused projects to sharpen the craft, and exploring patterns that make apps scale without the overhead.
 
-### Things I am excited to learn in near future
+### Up next
 
--   [Solid js](https://solidjs.com/) a promising UI framework
--   [Rust programming language](https://rust-lang.org/)
+-   [Solid js](https://solidjs.com/) - looks lean, promising, and fun
+-   [Rust programming language](https://rust-lang.org/) - because systems thinking helps everywhere
 
-### Random Fun facts about me
+### Fun bits
 
--   Big fan of Free Open source software(free as in freedom, not price)
--   Minimalist in nature
--   Team android
+- FOSS fan (free as in freedom)
+- Minimalist at heart
+- Team Android
+
+**Find me @**
+
+-   [Email me](mailto:alvs.codee@slmail.me)
+-   [Portfolio website](https://alvs.dev)
